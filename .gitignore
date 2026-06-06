@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Virtual env
+.venv/
+venv/
+
+# Data & artifacts
+data/
+third_parties/
+scripts/
+
+# OMC scratch
+.omc/
+.claude/
+
+# Editor
+*.swp
+*.swo
+.idea/
+.vscode/
